@@ -61,10 +61,6 @@ class docController extends Controller
             base_path().'/public/image/',$fileName
         );
         return redirect('dokumen');
-
-
-
-
     }
 
     /**
